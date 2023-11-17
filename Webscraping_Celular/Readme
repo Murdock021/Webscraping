@@ -1,4 +1,5 @@
 
+
 # Automatização de Busca no Google usando Python e Selenium
 
 Este script em Python usa a biblioteca Selenium para automatizar a realização de uma busca no Google. Ele abre o navegador Chrome, acessa o site do Google, realiza uma busca pela palavra-chave "Celular" e exibe os resultados.
